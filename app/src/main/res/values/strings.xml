@@ -27,6 +27,16 @@
     <string name="museum_2_about">Established in 2003, XVA is one of the leading galleries in the Middle East that specializes in contemporary art from the Arab world, Iran and the Subcontinent.</string>
     <string name="museum_3_about">The Etihad Museum collects, preserves, and displays the heritage of the United Arab Emirates in the areas of social, political, cultural, scientific, and military history. The museum takes its visitors to the foundation of phase the UAE.</string>
 
+    <!--mall names -->
+    <string name="mall_1_name">Dubai Mall</string>
+    <string name="mall_2_name">Dubai Shopping Center</string>
+    <string name="mall_3_name">Mall of Emirates</string>
+
+    <!--museum descriptions -->
+    <string name="mall_1_about">Located in the heart of the prestigious Downtown Dubai is The Dubai Mall, the world’s largest and most-visited retail and entertainment destination, which welcomes more than 80 million visitors annually.</string>
+    <string name="mall_2_about">Dubai Shopping Center is located in the area spanning Al Shola Shopping Center to City Center Hotel, which is a mix of developing resdentials and commercial properties.</string>
+    <string name="mall_3_about">Mall of the Emirates features an unmatched luxury offer housing more than 80 of the world’s most renowned designer brands in Fashion Dome and Luxury Wing The museum takes its visitors to the foundation of phase the UAE.</string>
+
     <!--fitness center names -->
     <string name="fitness_1_name">MMA Fitness Center</string>
     <string name="fitness_2_name">Motion Ladies Fitness Center</string>

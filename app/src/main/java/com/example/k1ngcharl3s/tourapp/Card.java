@@ -20,20 +20,24 @@ public class Card {
 
     //getter methods for accessing private variables
     public String getCardName() {
+
         return cardName;
     }
 
     public String getCardAbout() {
+
         return cardAbout;
     }
 
     public int getCardImage() {
+
         return cardImageID;
     }
 
     //Returns whether not an image is supplied for this card
     //May be removed later if not needed
     public boolean hasImage() {
+
         return cardImageID != NO_IMAGE_PROVIDED;
     }
 

@@ -46,6 +46,7 @@ public class CustomCardAdapter extends RecyclerView.Adapter<CustomCardAdapter.Ca
     //getItemCount method returns size of cards ArrayList for simplicity
     @Override
     public int getItemCount() {
+
         return cards.size();
     }
 
