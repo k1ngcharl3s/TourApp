@@ -1,13 +1,10 @@
+package com.example.k1ngcharl3s.tourapp;
+
 import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-
- import com.example.k1ngcharl3s.tourapp.R;
-import com.example.k1ngcharl3s.tourapp.mallFragment;
-import com.example.k1ngcharl3s.tourapp.museumFragment;
-import com.example.k1ngcharl3s.tourapp.restaurantFragment;
 
 import java.util.ArrayList;
 

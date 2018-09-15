@@ -2,9 +2,13 @@ package com.example.k1ngcharl3s.tourapp;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.support.v4.app.Fragment;
+import android.support.v7.widget.LinearLayoutManager;
 
 import java.util.ArrayList;
 
@@ -33,8 +37,8 @@ public class restaurantFragment extends Fragment {
         //Create ArrayList of cards, and cards for this Fragment's category
         ArrayList<Card> cards = new ArrayList<>();
         cards.add(new Card(getString(R.string.restaurant_1_name), getString(R.string.restaurant_1_about), R.drawable.al_labeeb));
-        cards.add(new Card(getString(R.string.restaurant_2_name), getString(R.string.site_2_about), R.drawable.al_fanar));
-        cards.add(new Card(getString(R.string.restaurant_3_name), getString(R.string.site_3_about), R.drawable.al_marhabani));
+        cards.add(new Card(getString(R.string.restaurant_2_name), getString(R.string.restaurant_2_about), R.drawable.al_fanar));
+        cards.add(new Card(getString(R.string.restaurant_3_name), getString(R.string.restaurant_3_about), R.drawable.al_marhabani));
         //Create RecyclerView adapter and set it to the RecyclerView
         CustomCardAdapter historicalAdapter = new CustomCardAdapter(getmContext(), cards);
         recycle.setAdapter(historicalAdapter);
