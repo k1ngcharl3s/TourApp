@@ -2,9 +2,14 @@ package com.example.k1ngcharl3s.tourapp;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.support.v4.app.Fragment;
+
+
 
 import java.util.ArrayList;
 
@@ -17,7 +22,7 @@ public class mallFragment extends Fragment {
     }
 
     //The Fragments are created in the getContext method
-    public Context getmContext() {
+    public Context context() {
         mContext = this.getContext();
         return mContext;
     }
@@ -36,7 +41,7 @@ public class mallFragment extends Fragment {
         cards.add(new Card(getString(R.string.mall_2_name), getString(R.string.mall_2_about), R.drawable.dubai_shopping_center));
         cards.add(new Card(getString(R.string.mall_3_name), getString(R.string.mall_3_about), R.drawable.mall_of_emirates));
         //Create RecyclerView adapter and set it to the RecyclerView
-        CustomCardAdapter historicalAdapter = new CustomCardAdapter(getmContext(), cards);
+        CustomCardAdapter historicalAdapter = new CustomCardAdapter(getContext(), cards);
         recycle.setAdapter(historicalAdapter);
 
 

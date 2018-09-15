@@ -13,9 +13,9 @@
     <string name="restaurant_3_name">Al Marhabani Restaurant</string>
 
     <!--restaurant descriptions -->
-    <string name="restaurant_1_about">This is a little Dubai gem that Peyman brought me to. It’s a small Iranian grocery and convenience store, but the real reason you want to come here is to get your hands on regag bread. </string>
-    <string name="restaurant_2_about">Al Fanar is one of the few traditional Emirati restaurants, and they have an impressive menu that consists of everything from Emirati rice and meat feasts to desserts, snacks, and even breakfast dishes. </string>
-    <string name="restaurant_3_about">Al Marhabani Restaurant in Dubai is at the top of their mandi game, and they served what was easily one of my favorite meals in Dubai – that lamb drumstick will melt in your mouth! </string>
+    <string name="restaurant_1_about">It’s a small Iranian grocery and convenience store with great regag bread. </string>
+    <string name="restaurant_2_about">Al Fanar is one of the few traditional Emirati restaurants, and they have an impressive menu.</string>
+    <string name="restaurant_3_about">Al Marhabani Restaurant in Dubai is at the top of their mandi game. </string>
 
     <!--museum names -->
     <string name="museum_1_name">Dubai Museum</string>
@@ -23,19 +23,18 @@
     <string name="museum_3_name">Etihad Museum</string>
 
     <!--museum descriptions -->
-    <string name="museum_1_about">Dubai Museum is the main museum in Dubai, United Arab Emirates. It is located in the Al Fahidi Fort, built in 1787 and is the oldest existing building in Dubai.</string>
-    <string name="museum_2_about">Established in 2003, XVA is one of the leading galleries in the Middle East that specializes in contemporary art from the Arab world, Iran and the Subcontinent.</string>
-    <string name="museum_3_about">The Etihad Museum collects, preserves, and displays the heritage of the United Arab Emirates in the areas of social, political, cultural, scientific, and military history. The museum takes its visitors to the foundation of phase the UAE.</string>
-
+    <string name="museum_1_about">It is located in the Al Fahidi Fort, built in 1787 and is the oldest existing building in Dubai.</string>
+    <string name="museum_2_about">Established in 2003, XVA is one of the leading galleries in the Middle East that specializes in contemporary art from the Arab world.</string>
+    <string name="museum_3_about">The Etihad Museum collects, preserves, and displays the heritage of the United Arab Emirates</string>
     <!--mall names -->
     <string name="mall_1_name">Dubai Mall</string>
     <string name="mall_2_name">Dubai Shopping Center</string>
     <string name="mall_3_name">Mall of Emirates</string>
 
     <!--museum descriptions -->
-    <string name="mall_1_about">Located in the heart of the prestigious Downtown Dubai is The Dubai Mall, the world’s largest and most-visited retail and entertainment destination, which welcomes more than 80 million visitors annually.</string>
-    <string name="mall_2_about">Dubai Shopping Center is located in the area spanning Al Shola Shopping Center to City Center Hotel, which is a mix of developing resdentials and commercial properties.</string>
-    <string name="mall_3_about">Mall of the Emirates features an unmatched luxury offer housing more than 80 of the world’s most renowned designer brands in Fashion Dome and Luxury Wing The museum takes its visitors to the foundation of phase the UAE.</string>
+    <string name="mall_1_about">Located in the heart of the prestigious Downtown Dubai is The Dubai Mall, the world’s largest and most-visited retail and entertainment destination.</string>
+    <string name="mall_2_about">Dubai Shopping Center is located in the area spanning Al Shola Shopping Center to City Center Hotel.</string>
+    <string name="mall_3_about">Mall of the Emirates features an unmatched luxury offer housing more than 80 of the world’s most renowned designer brands.</string>
 
     <!--fitness center names -->
     <string name="fitness_1_name">MMA Fitness Center</string>
@@ -43,6 +42,6 @@
 
     <!--fitness center descriptions -->
     <string name="fitness_1_about">MMA Fitness Centre enables everyone to enjoy the fusion of disciplines, known as Mixed Martial Arts.</string>
-    <string name="fitness_2_about">It is a community for Dubai ladies to work on their lifestyle and reach their goals in a relaxing, supportive and cozy environment.</string>
+    <string name="fitness_2_about">It is a community for Dubai ladies to work on their lifestyle and reach their goals in a relaxing environment.</string>
 
 </resources>

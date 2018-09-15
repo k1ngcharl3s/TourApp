@@ -1,16 +1,10 @@
 import android.content.Context;
-import android.os.Bundle;
+import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
 
-import com.example.k1ngcharl3s.tourapp.Card;
-import com.example.k1ngcharl3s.tourapp.CustomCardAdapter;
-import com.example.k1ngcharl3s.tourapp.R;
+
+ import com.example.k1ngcharl3s.tourapp.R;
 import com.example.k1ngcharl3s.tourapp.mallFragment;
 import com.example.k1ngcharl3s.tourapp.museumFragment;
 import com.example.k1ngcharl3s.tourapp.restaurantFragment;
@@ -39,7 +33,7 @@ public class TourGuidePagerAdapter extends FragmentPagerAdapter {
             case 2:
                 return new museumFragment();
             case 3:
-                return new gymFragment();
+                return new fitnessFragment();
             default:
                 return null;
 
